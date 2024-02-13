@@ -1,3 +1,3 @@
 # git-eseentials
 
-Some new Stuff here 
+This is a repo to learn git 
